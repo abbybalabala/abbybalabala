@@ -18,5 +18,5 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abbybalabala&theme=material-palenight&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 
-![](https://komarev.com/ghpvc/?username=abbybalabala&color=9945FF&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=abbysuyuyan&color=9945FF&style=for-the-badge)
 
