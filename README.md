@@ -1,4 +1,4 @@
-<img src="https://github.com/abbybalabala/abbysuyuyan/blob/main/Aurora%20Studio.svg" width="800"><br><br>
+<img src="https://github.com/abbybalabala/abbybalabala/blob/main/Aurora%20Studio.svg" width="800"><br><br>
 <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" />  GM. This is Abby  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Girl%20Light%20Skin%20Tone.png" alt="Girl Light Skin Tone" width="40" height="40" /></h1>
 
 Hi there I am Abby, a frontend engineer who bridges aesthetics and algorithms. I craft interactive experiences using React, Next.js, and Three.js, while also experimenting with DeFi protocols (Solidity), on-chain analytics (Dune, Nansen), and quantitative trading systems in my free time. My workflow often flows between building web apps, refining user journeys, and coding smart contracts in Solidity and Move. 
